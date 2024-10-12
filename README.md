@@ -1,4 +1,4 @@
-# GCP Terragrunt Example Boilerplate
+# GCP Terragrunt Example Blueprint
 This repository shall give you a starting point for your IaC on GCP
 
 ![](./demo.gif)

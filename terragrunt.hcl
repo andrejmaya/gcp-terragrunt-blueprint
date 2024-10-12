@@ -4,10 +4,10 @@ terraform {
 
 
 locals {
-  application      = "gcp-boilerplate-code"
+  application      = "gcp-blueprint-code"
   environment_name = "temp"
   team_name        = "reply"
-  repository       = "gcp-terragrunt-boilerplate"
+  repository       = "gcp-terragrunt-blueprint"
   prefix           = "gcp-expl"
 
   # Extract the variables we need for easy access
